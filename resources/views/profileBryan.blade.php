@@ -10,12 +10,12 @@
         <div class="container-fluid">
             <div class="row mb-2">
                 <div class="col-sm-6">
-                    <h1 class="m-0">Lorem, ipsum dolor.</h1>
+                    <h1 class="m-0">Profil Bryan</h1>
                 </div><!-- /.col -->
                 <div class="col-sm-6">
                     <ol class="breadcrumb float-sm-right">
                         <li class="breadcrumb-item"><a href="#">Home</a></li>
-                        <li class="breadcrumb-item active">XXX</li>
+                        <li class="breadcrumb-item active">Bryan</li>
                     </ol>
                 </div><!-- /.col -->
             </div><!-- /.row -->
@@ -33,23 +33,24 @@
               <div class="card-body box-profile">
                 <div class="text-center">
                   <img class="profile-user-img img-fluid img-circle"
-                       src="../../dist/img/user4-128x128.jpg"
+                       src="../../dist/img/bryan.png"
                        alt="User profile picture">
                 </div>
 
-                <h3 class="profile-username text-center">Nina Mcintire</h3>
+                <h3 class="profile-username text-center">Bryan Tosin Saputro</h3>
 
                 <p class="text-muted text-center">Software Engineer</p>
 
+                
                 <ul class="list-group list-group-unbordered mb-3">
                   <li class="list-group-item">
-                    <b>Followers</b> <a class="float-right">1,322</a>
+                    <b>Kelas</b> <a class="float-right">2G</a>
                   </li>
                   <li class="list-group-item">
-                    <b>Following</b> <a class="float-right">543</a>
+                    <b>No</b> <a class="float-right">09</a>
                   </li>
                   <li class="list-group-item">
-                    <b>Friends</b> <a class="float-right">13,287</a>
+                    <b>NIM</b> <a class="float-right">2141720220</a>
                   </li>
                 </ul>
 
@@ -69,14 +70,14 @@
                 <strong><i class="fas fa-book mr-1"></i> Education</strong>
 
                 <p class="text-muted">
-                  B.S. in Computer Science from the University of Tennessee at Knoxville
+                  State Polytechnic of Malang
                 </p>
 
                 <hr>
 
                 <strong><i class="fas fa-map-marker-alt mr-1"></i> Location</strong>
 
-                <p class="text-muted">Malibu, California</p>
+                <p class="text-muted">Malang, Indonesia</p>
 
                 <hr>
 
@@ -94,7 +95,7 @@
 
                 <strong><i class="far fa-file-alt mr-1"></i> Notes</strong>
 
-                <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam fermentum enim neque.</p>
+                <p class="text-muted">"Maka Sesungguhnya bersama Kesulitan itu ada Kemudahan."</p>
               </div>
               <!-- /.card-body -->
             </div>
@@ -149,20 +150,22 @@
                     <!-- Post -->
                     <div class="post clearfix">
                       <div class="user-block">
-                        <img class="img-circle img-bordered-sm" src="../../dist/img/user7-128x128.jpg" alt="User Image">
+                        <img class="img-circle img-bordered-sm" src="../../dist/img/bryan.png" alt="User Image">
                         <span class="username">
-                          <a href="#">Sarah Ross</a>
+                          <a href="#">Bryan Tosin Saputro</a>
                           <a href="#" class="float-right btn-tool"><i class="fas fa-times"></i></a>
                         </span>
-                        <span class="description">Sent you a message - 3 days ago</span>
+                        <span class="description">You sent a message - 3 days ago</span>
                       </div>
                       <!-- /.user-block -->
                       <p>
-                        Lorem ipsum represents a long-held tradition for designers,
-                        typographers and the like. Some people hate it and argue for
-                        its demise, but others ignore the hate as they create awesome
-                        tools to help create filler text for everyone from bacon lovers
-                        to Charlie Sheen fans.
+                      Halo teman,
+
+                      Apa kabar? Sudah lama tidak bertemu atau berbicara. Saya harap semuanya baik-baik saja di sana. Bagaimana kabar kuliah/masa kerja/kegiatanmu akhir-akhir ini?
+
+                      Saya ingin mengajakmu untuk bertemu dan mengobrol seperti dulu. Mungkin bisa kita atur waktunya nanti di akhir pekan atau kapan pun kamu senggang. Bagaimana menurutmu?
+
+                      Terima kasih dan semoga kabar baik selalu menyertaimu.
                       </p>
 
                       <form class="form-horizontal">
@@ -179,12 +182,12 @@
                     <!-- Post -->
                     <div class="post">
                       <div class="user-block">
-                        <img class="img-circle img-bordered-sm" src="../../dist/img/user6-128x128.jpg" alt="User Image">
+                        <img class="img-circle img-bordered-sm" src="../../dist/img/bryan.png" alt="User Image">
                         <span class="username">
-                          <a href="#">Adam Jones</a>
+                          <a href="#">Bryan Tosin Saputro</a>
                           <a href="#" class="float-right btn-tool"><i class="fas fa-times"></i></a>
                         </span>
-                        <span class="description">Posted 5 photos - 5 days ago</span>
+                        <span class="description">You Posted 5 photos - 5 days ago</span>
                       </div>
                       <!-- /.user-block -->
                       <div class="row mb-3">
@@ -216,7 +219,7 @@
                         <a href="#" class="link-black text-sm"><i class="far fa-thumbs-up mr-1"></i> Like</a>
                         <span class="float-right">
                           <a href="#" class="link-black text-sm">
-                            <i class="far fa-comments mr-1"></i> Comments (5)
+                            <i class="far fa-comments mr-1"></i> Comments (8)
                           </a>
                         </span>
                       </p>
@@ -265,7 +268,7 @@
                         <div class="timeline-item">
                           <span class="time"><i class="far fa-clock"></i> 5 mins ago</span>
 
-                          <h3 class="timeline-header border-0"><a href="#">Sarah Young</a> accepted your friend request
+                          <h3 class="timeline-header border-0"><a href="#">Agung Malik Al Qindy</a> accepted your friend request
                           </h3>
                         </div>
                       </div>
