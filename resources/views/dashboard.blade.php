@@ -1,7 +1,10 @@
 @extends('layouts.content')
 
 @section('title', 'Dashboard')
-@include('sweetalert::alert')
+@section('alert')
+<script>
+    window.alert('Selamat Datang')
+</script>
 @section('content')
 
 <!-- Content Wrapper. Contains page content -->
