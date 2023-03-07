@@ -60,7 +60,7 @@
 
                     <div class="post clearfix">
                       <div class="user-block">
-                        <img class="img-circle img-bordered-sm" src="../../dist/img/user7-128x128.jpg" alt="User Image">
+                        <img class="img-circle img-bordered-sm" src="../../dist/img/bryan.png" alt="User Image">
                         <span class="username">
                           <a href="#">Sarah Ross</a>
                         </span>
@@ -68,9 +68,7 @@
                       </div>
                       <!-- /.user-block -->
                       <p>
-                        Lorem ipsum represents a long-held tradition for designers,
-                        typographers and the like. Some people hate it and argue for
-                        its demise, but others ignore.
+                        Dah sampai kelas suasana awkward tu memang ada. Tambah-tambah lagi kalau lambat. Haha waktu ni pun blur tak tahu nak duduk mana dan sebelah siapa. Waktu ni lah kita observe je perangai sorang-sorang classmates kita. Belum kenal lagi dah buat andaian macam-macam.
                       </p>
                       <p>
                         <a href="#" class="link-black text-sm"><i class="fas fa-link mr-1"></i> Demo File 2</a>
@@ -107,19 +105,10 @@
               <h5 class="mt-5 text-muted">Link Github</h5>
               <ul class="list-unstyled">
                 <li>
-                  <a href="" class="btn-link text-secondary"><i class="far fa-fw fa-file-word"></i> Functional-requirements.docx</a>
+                  <a href="" class="btn-link text-secondary"><i class="far fa-fw fa-envelope"></i> <a href="https://github.com/bryantosin1">bryantosin1</a></a>
                 </li>
                 <li>
-                  <a href="" class="btn-link text-secondary"><i class="far fa-fw fa-file-pdf"></i> UAT.pdf</a>
-                </li>
-                <li>
-                  <a href="" class="btn-link text-secondary"><i class="far fa-fw fa-envelope"></i> Email-from-flatbal.mln</a>
-                </li>
-                <li>
-                  <a href="" class="btn-link text-secondary"><i class="far fa-fw fa-image "></i> Logo.png</a>
-                </li>
-                <li>
-                  <a href="" class="btn-link text-secondary"><i class="far fa-fw fa-file-word"></i> Contract-10_12_2014.docx</a>
+                  <a href="" class="btn-link text-secondary"><i class="far fa-fw fa-envelope"></i> <a href="https://github.com/AgungA1">AgungA1</a> </a>
                 </li>
               </ul>
             </div>
